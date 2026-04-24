@@ -37,7 +37,7 @@ const About = () => {
           >
             <div className="relative z-10 rounded-2xl overflow-hidden border border-white/10 shadow-2xl">
               <img 
-                src="https://images.unsplash.com/photo-1565120130276-dfbd9a7a3ad7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4ODY5NjV8MHwxfHNlYXJjaHwxfHxwb3J0cmFpdCUyMGRldmVsb3BlciUyMGN5YmVyc2VjdXJpdHklMjBtYWxlJTIwdGVjaCUyMGFlc3RoZXRpY3xlbnwwfDB8fHwxNzc3MDI0NDEzfDA&ixlib=rb-4.1.0&q=80&w=1080" 
+                src="IMG-20260226-WA0021.jpg" 
                 alt="Olaleye Favour Portfolio Headshot" 
                 className="w-full aspect-square object-cover grayscale hover:grayscale-0 transition-all duration-500"
               />
